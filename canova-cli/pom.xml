@@ -30,7 +30,7 @@
   <name>canova-cli</name>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <slf4j.version>1.7.5</slf4j.version>
+    <slf4j.version>1.7.32</slf4j.version>
     <jackson.version>2.5.1</jackson.version>
   </properties>
   <dependencies>
@@ -189,7 +189,7 @@
                 <defineStatement>_unpackaged_files_terminate_build 0</defineStatement>
               </defineStatements>
               <requires>
-                <require>java &gt;= 1.7</require>
+                <require>java >= 1.7</require>
               </requires>
               <mappings>
                 <mapping>
