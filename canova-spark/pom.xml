@@ -12,7 +12,7 @@
     <artifactId>canova-spark</artifactId>
 
     <properties>
-        <spark.version>1.5.1</spark.version>
+        <spark.version>2.1.0</spark.version>
         <scala.binary.version>2.10</scala.binary.version>
     </properties>
 
