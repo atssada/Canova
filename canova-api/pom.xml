@@ -32,7 +32,7 @@
     
 
     <properties>
-        <jackson.version>2.5.1</jackson.version>
+        <jackson.version>2.13.0</jackson.version>
 	</properties>    
 
     <dependencies>
