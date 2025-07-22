@@ -37,7 +37,7 @@
     </repositories>
 	<!-- we'll change this to something more valid later, just prototyping for now -->
 	<properties>
-        <hadoop.version>2.0.0-cdh4.6.0</hadoop.version>
+        <hadoop.version>3.4.0</hadoop.version>
     </properties>
     
     <dependencies>
